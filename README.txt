@@ -1,7 +1,7 @@
 This is a sample project students can use during Matthew's Git class.
 
 
-
+Something and nothinh
 There is always something that we don't know. This sheer gap between knowing and not knowing
 is what makes us human or rather humane. Have we had the knowlege that encompassed the entire cosmos 
 I would imagine use being still humble before the lord.
