@@ -1,5 +1,13 @@
 This is a sample project students can use during Matthew's Git class.
 
+
+
+There is always something that we don't know. This sheer gap between knowing and not knowing
+is what makes us human or rather humane. Have we had the knowlege that encompassed the entire cosmos 
+I would imagine use being still humble before the lord.
+
+
+
 Here is an addition by me
 
 We can have a bit of fun with this repo, knowing that we can always reset it to a known good state.  We can apply labels, and branch, then add new code and merge it in to the master branch.
